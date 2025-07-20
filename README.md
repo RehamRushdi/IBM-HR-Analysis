@@ -16,7 +16,7 @@ This project presents a clear analysis of employee attrition patterns using IBM�
 
 ## 🗂️ Dataset
 
-- **Source:** Kaggle (synthetic HR dataset for demonstration)
+- **Source:** Kaggle ([synthetic HR dataset for demonstration](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset/data))
 - **+35** Columns 
 
 ---
